@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.heading{
+     color: white;
+     background-color: black;
+     text-align: center;
+} 
+ul,li{
+    display: inline-block;
+    padding-top: 20px;
+}
+
+h3{
+    color: gray;
+    padding-top: 10px;
+    text-align: right;
+    padding-right: 30px;
+    padding-left: 10%;
+    padding-bottom: 30px;
+    cursor: pointer;
+}
+h3:hover{
+    color: white;
+}
+.welcome{
+    margin-top: 20px;
+    color: white;
+    margin-left: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.youtube{
+    text-align: center;
+    padding: 20px;
+}
+.under{
+    color:rgb(2, 238, 255);
+    
+}
+.under{
+    cursor: pointer;
+    text-align: center;
+    text-overflow: clip;
+    margin-bottom: 10px;
+}
+.project{
+    text-align: center;
+    padding-top: 30px;
+}
+.pgm{
+    display: inline-block;
+    padding-left: 20px;
+}
+.pgm:hover{
+    color: white;
+    text-shadow: 10px;
+    cursor: grab;
+}
+nav{
+text-overflow: var(20px);
+    margin-top: 20px;
+    padding: 20px;
+    color: orangered;
+    text-align: center;
+}
+.contact{
+    margin-top: 30px;
+    text-align: center;
+}
+.c,a{
+    display: inline-block;
+    color: white;
+    padding-left: 20px;
+}
+
+
+
+

@@ -1,0 +1,5 @@
+heading{Master site.....}
+subheading{- create by Akash kanna}
+p{welcome to the master site of ak developer website the page create purpose is analysing how ak development ther coding skills in 2025  tracking progress and recheck the coding   and example projects }
+under the yt {Thanks for visiting our master website}
+ 
